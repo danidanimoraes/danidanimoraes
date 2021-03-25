@@ -17,8 +17,8 @@ Because of this, my github is kind of messy, because I like to always learn new 
 
 Enjoy and feel free to contact me! ✉️
 
+The doggo below is judging my pinned repos:
 ![DOGGER](https://media.giphy.com/media/51Uiuy5QBZNkoF3b2Z/giphy-downsized.gif)  
-☝️ (Me, finding a bug on my code)
 
 <!--
 **danidanimoraes/danidanimoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
