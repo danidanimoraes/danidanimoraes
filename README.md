@@ -1,6 +1,6 @@
 ### Hellooooo!
 
-My name is Daniele, and I'm from Brazil! 🇧🇷
+My name is Daniele, and I'm from Brazil! 💚 💛
 
 I graduated in Electrical Engineering 🔌⚡ at Universidade Estudal de Campinas (UNICAMP), buuuut I've worked with software development since my graduation 😛
 
