@@ -2,7 +2,7 @@
 
 My name is Daniele, and I'm from Brazil! 🇧🇷
 
-I graduated in Electrical Engineering 🔌⚡ at Universidade Estudal de Campinas (UNICAMP), buuuut I've worked with software developed since my graduation 😛
+I graduated in Electrical Engineering 🔌⚡ at Universidade Estudal de Campinas (UNICAMP), buuuut I've worked with software development since my graduation 😛
 
 During the course, I programmed with assembly and C... very low-level...
 Then, I began working with C++...
