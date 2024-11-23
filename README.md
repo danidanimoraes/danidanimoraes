@@ -1,25 +1,20 @@
-### Hellooooo!
+### Hello
 
-My name is Daniele, and I'm from Brazil! 💚 💛
+My name is Daniele, and I'm from Brazil
 
-I graduated in Electrical Engineering 🔌⚡ at Universidade Estudal de Campinas (UNICAMP), buuuut I've worked with software development since my graduation 😛
+* Graduated in Electrical Engineering 🔌⚡ at Universidade Estudal de Campinas (UNICAMP)
+* Working with software development since 2015
+  
+During the course, I programmed with `assembly` and `C`...
+Then, I began working with `C++`...  
+Moved to a new project and learned `Java`...  
+Landed on a front-end project with `Angular`...  
+Went to another project with older technologies: `angularJS`, `Primefaces`, `JSF`, `jQuery`...  
+Changed companies and worked with `React`, `redux`, `react-query`, `nx`
 
-During the course, I programmed with assembly and C... very low-level...  
-Then, I began working with C++...  
-Moved to a new project and learned Java ☕...  
-Landed on a front-end project with Angular...  
-Got on another project with older technologies: angularJS/Primefaces...  
-And currently I am working at iFood 🍰, the biggest Foodtech in Latin America, with React ☺️  
-
-Because of this, my github is kind of messy, because I like to always learn new stuff! 
-
-🍭 Fun fact: I also like to learn new languages, currently I'm studying Arabic and Brazilian Sign Language
-
-Enjoy and feel free to contact me! ✉️
-
-The doggo below is judging my pinned repos:  
-
-![DOGGER](https://media.giphy.com/media/51Uiuy5QBZNkoF3b2Z/giphy-downsized.gif)  
+* I love dogs and animals
+  
+![DOGGER](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl4bmE0cm81MHdudzV1b3ppdzNzdWViY2QxYmh3Y213czdva3FtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SpPVAQT0mQXzq/giphy.gif)  
 
 <!--
 **danidanimoraes/danidanimoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
